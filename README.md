@@ -1,5 +1,6 @@
 # QuanLyDiemSinhVien2
 Prerequisites
+
 Before you continue, ensure you meet the following requirements:
 
 * You have installed SQLite
